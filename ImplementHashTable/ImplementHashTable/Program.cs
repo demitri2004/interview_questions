@@ -1,4 +1,5 @@
 ﻿using System;
+using static ImplementHashTable.Models;
 
 namespace ImplementHashTable
 {
@@ -6,7 +7,11 @@ namespace ImplementHashTable
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var hashTable = new HashTable<int>(4);
+
+            Console.WriteLine(hashTable.GetBucketByKey("ane"));
+
+
         }
     }
 }
