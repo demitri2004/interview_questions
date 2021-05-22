@@ -109,7 +109,8 @@ namespace ImplementHashTable
             public int GetBucketByKey(string key)
             {
                 var test = key[0];
-                return key[0] % _buckets.Length;
+                var result = key[0] % _buckets.Length;
+                return result;
 
                 //return Math.Abs(key.GetHashCode() % _buckets.Length);
             }
