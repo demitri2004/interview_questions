@@ -7,7 +7,7 @@ function hashStringToInt(s, tableSize){
     }
 
     return hash;
-}
+} 
 
 class HashTable {
     
