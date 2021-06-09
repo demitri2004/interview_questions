@@ -1,0 +1,16 @@
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\bin\Debug\net5.0\PracticeHashTable.exe
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\bin\Debug\net5.0\PracticeHashTable.deps.json
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\bin\Debug\net5.0\PracticeHashTable.runtimeconfig.json
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\bin\Debug\net5.0\PracticeHashTable.runtimeconfig.dev.json
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\bin\Debug\net5.0\PracticeHashTable.dll
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\bin\Debug\net5.0\ref\PracticeHashTable.dll
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\bin\Debug\net5.0\PracticeHashTable.pdb
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\obj\Debug\net5.0\PracticeHashTable.csprojAssemblyReference.cache
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\obj\Debug\net5.0\PracticeHashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\obj\Debug\net5.0\PracticeHashTable.AssemblyInfoInputs.cache
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\obj\Debug\net5.0\PracticeHashTable.AssemblyInfo.cs
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\obj\Debug\net5.0\PracticeHashTable.csproj.CoreCompileInputs.cache
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\obj\Debug\net5.0\PracticeHashTable.dll
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\obj\Debug\net5.0\ref\PracticeHashTable.dll
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\obj\Debug\net5.0\PracticeHashTable.pdb
+C:\development\interview_questions\PracticeHashTable\PracticeHashTable\obj\Debug\net5.0\PracticeHashTable.genruntimeconfig.cache
