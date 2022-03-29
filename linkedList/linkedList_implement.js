@@ -229,3 +229,143 @@ console.log(ll.removeFrom(3));
  
 // prints 10 20 60 40
 ll.printList();
+
+
+
+
+//factorial
+//n! = n * (n-1)!
+
+function factorial(n) {
+    if(n == 1){
+        return 1;
+    } else {
+        return n*factorial(n-1);
+    }
+}
+
+//fibonacci
+// Fn = Fn-1 + Fn-2
+
+function fibonacci(n) {
+    if(n < 3){
+        return 1
+    } else {
+        return fibonacci(n-1) + fibonacci(n-2);
+    }
+}
+
+//find biggest number
+function findBigNumberRecur(arr) {
+    var first = arr[0];
+    var second = 0;
+    arr.shift();
+    
+    if(arr.length >= 1){
+        second =  findBigNumber(arr);    
+    }
+    
+    if(first > second){
+        return first;
+    } else {
+        return second;
+    }
+    
+}
+
+function findBigNumberIterat(arr) {
+    var max1 = arr[0]
+    arr.shift();
+
+    for(var n of arr){
+        if(n > max1){
+            max1 = n;
+        }
+    }
+    return max1;
+}
+
+// factorial(4);
+// fibonacci(10)
+var arr = [3,6,54,1,9,78,34,45];
+// findBigNumber(arr);
+findBigNumberIterat(arr);
+
+
+class Node {
+    constructor(data) {
+        this.data = data;
+        this.next = null;
+    }
+}
+
+class List {
+    constructor(head) {
+        this.head = head;
+    }
+
+    insert(newData) {
+        var newNode = new Node(newData);
+        
+        if(this.head == null){
+            this.head = newNode;
+        } else {
+            var curr = this.head;
+
+            while(curr.next != null){                
+                curr = curr.next;                
+            }
+            curr.next = newNode;            
+        }
+    }
+
+    print(){
+        var curr = this.head;
+        
+        while(curr != null){
+            console.log(curr.data);
+            curr = curr.next;
+        }
+    }
+
+    reverseInerate(){
+        var cur = this.head;
+        var prev, next;
+
+        while(cur != null){
+            next = cur.next;
+            cur.next = prev;
+            prev = cur;
+            cur = next;            
+        }
+        this.head = prev;
+    }
+
+    reverseRecurse(head){
+        var cur = head;
+
+        if(cur.next == null){
+            this.head = cur;
+            return;
+        } else {
+            this.reverseRecurse(cur.next);    
+        }
+        
+        var prev = cur.next;
+        prev.next = cur;
+        cur.next = null;
+        
+    }
+}
+
+var node = new Node('one');
+var list = new List(node);
+list.insert('two');
+list.insert('three');
+list.insert('four');
+list.insert('five');
+list.insert('six');
+
+// list.reverseInerate();
+list.reverseRecurse(list.head);
+list.print();
