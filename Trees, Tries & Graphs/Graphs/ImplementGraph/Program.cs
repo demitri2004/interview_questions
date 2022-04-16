@@ -40,7 +40,7 @@ public class Graph
     {
         for(var i=0; i < graph.Length; i++)
         {
-            Console.WriteLine("\nhead -> " + i);
+            Console.WriteLine("head -> " + i);
 
             foreach(var item in graph[i])
             {

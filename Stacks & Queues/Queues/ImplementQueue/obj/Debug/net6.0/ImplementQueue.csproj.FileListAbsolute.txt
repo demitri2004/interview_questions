@@ -1,0 +1,15 @@
+C:\Users\dkarpov\development\interview_questions\Stacks & Queues\Queues\ImplementQueue\bin\Debug\net6.0\ImplementQueue.exe
+C:\Users\dkarpov\development\interview_questions\Stacks & Queues\Queues\ImplementQueue\bin\Debug\net6.0\ImplementQueue.deps.json
+C:\Users\dkarpov\development\interview_questions\Stacks & Queues\Queues\ImplementQueue\bin\Debug\net6.0\ImplementQueue.runtimeconfig.json
+C:\Users\dkarpov\development\interview_questions\Stacks & Queues\Queues\ImplementQueue\bin\Debug\net6.0\ImplementQueue.dll
+C:\Users\dkarpov\development\interview_questions\Stacks & Queues\Queues\ImplementQueue\bin\Debug\net6.0\ImplementQueue.pdb
+C:\Users\dkarpov\development\interview_questions\Stacks & Queues\Queues\ImplementQueue\obj\Debug\net6.0\ImplementQueue.csproj.AssemblyReference.cache
+C:\Users\dkarpov\development\interview_questions\Stacks & Queues\Queues\ImplementQueue\obj\Debug\net6.0\ImplementQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkarpov\development\interview_questions\Stacks & Queues\Queues\ImplementQueue\obj\Debug\net6.0\ImplementQueue.AssemblyInfoInputs.cache
+C:\Users\dkarpov\development\interview_questions\Stacks & Queues\Queues\ImplementQueue\obj\Debug\net6.0\ImplementQueue.AssemblyInfo.cs
+C:\Users\dkarpov\development\interview_questions\Stacks & Queues\Queues\ImplementQueue\obj\Debug\net6.0\ImplementQueue.csproj.CoreCompileInputs.cache
+C:\Users\dkarpov\development\interview_questions\Stacks & Queues\Queues\ImplementQueue\obj\Debug\net6.0\ImplementQueue.dll
+C:\Users\dkarpov\development\interview_questions\Stacks & Queues\Queues\ImplementQueue\obj\Debug\net6.0\refint\ImplementQueue.dll
+C:\Users\dkarpov\development\interview_questions\Stacks & Queues\Queues\ImplementQueue\obj\Debug\net6.0\ImplementQueue.pdb
+C:\Users\dkarpov\development\interview_questions\Stacks & Queues\Queues\ImplementQueue\obj\Debug\net6.0\ImplementQueue.genruntimeconfig.cache
+C:\Users\dkarpov\development\interview_questions\Stacks & Queues\Queues\ImplementQueue\obj\Debug\net6.0\ref\ImplementQueue.dll
