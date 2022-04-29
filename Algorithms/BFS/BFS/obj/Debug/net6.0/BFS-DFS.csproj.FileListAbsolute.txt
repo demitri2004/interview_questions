@@ -1,0 +1,15 @@
+C:\Users\dkarpov\development\interview_questions\Algorithms\BFS\BFS\bin\Debug\net6.0\BFS-DFS.exe
+C:\Users\dkarpov\development\interview_questions\Algorithms\BFS\BFS\bin\Debug\net6.0\BFS-DFS.deps.json
+C:\Users\dkarpov\development\interview_questions\Algorithms\BFS\BFS\bin\Debug\net6.0\BFS-DFS.runtimeconfig.json
+C:\Users\dkarpov\development\interview_questions\Algorithms\BFS\BFS\bin\Debug\net6.0\BFS-DFS.dll
+C:\Users\dkarpov\development\interview_questions\Algorithms\BFS\BFS\bin\Debug\net6.0\BFS-DFS.pdb
+C:\Users\dkarpov\development\interview_questions\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS-DFS.csproj.AssemblyReference.cache
+C:\Users\dkarpov\development\interview_questions\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS-DFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkarpov\development\interview_questions\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS-DFS.AssemblyInfoInputs.cache
+C:\Users\dkarpov\development\interview_questions\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS-DFS.AssemblyInfo.cs
+C:\Users\dkarpov\development\interview_questions\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS-DFS.csproj.CoreCompileInputs.cache
+C:\Users\dkarpov\development\interview_questions\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS-DFS.dll
+C:\Users\dkarpov\development\interview_questions\Algorithms\BFS\BFS\obj\Debug\net6.0\refint\BFS-DFS.dll
+C:\Users\dkarpov\development\interview_questions\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS-DFS.pdb
+C:\Users\dkarpov\development\interview_questions\Algorithms\BFS\BFS\obj\Debug\net6.0\BFS-DFS.genruntimeconfig.cache
+C:\Users\dkarpov\development\interview_questions\Algorithms\BFS\BFS\obj\Debug\net6.0\ref\BFS-DFS.dll

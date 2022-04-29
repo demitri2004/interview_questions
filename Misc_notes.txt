@@ -1,0 +1,14 @@
+// GIT COMMANDS
+
+git pull; git push
+git add .
+git commit -m 'comment here'
+
+git diff; git diff --staged; 
+
+// GIT REPO LOCATION
+C:\Users\dkarpov\development\interview_questions
+
+// SHORTCUT TEXT DOC
+Right-Click (release) > W > T
+
