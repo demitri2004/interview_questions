@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QCE2UTJRvoJhIxYmmJl01uhYxgsk592/NjSwPHXcuQU09yPMkZXcGlVHOvsC7EP23IMU5b5QC0HyiTFN46f0Vw==",
+  "dgSpecHash": "B1FP8NxwgxlsWoiQC2GioJGhlJHF3fa9n2rC5rNAMroaRMy1vgM6WQVAVq1clqZWQrRiycywqEU0UaRX0FpYWA==",
   "success": true,
-  "projectFilePath": "C:\\development\\interview_questions\\PracticeHashTable\\PracticeHashTable\\PracticeHashTable.csproj",
+  "projectFilePath": "C:\\Users\\dkarpov\\development\\interview_questions\\DataStructures\\hashTable\\PracticeHashTable\\PracticeHashTable\\PracticeHashTable.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

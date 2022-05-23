@@ -1,0 +1,15 @@
+C:\Users\dkarpov\development\interview_questions\Algorithms\BinarySearch\BinarySearchImplement\bin\Debug\net6.0\BinarySearchImplement.exe
+C:\Users\dkarpov\development\interview_questions\Algorithms\BinarySearch\BinarySearchImplement\bin\Debug\net6.0\BinarySearchImplement.deps.json
+C:\Users\dkarpov\development\interview_questions\Algorithms\BinarySearch\BinarySearchImplement\bin\Debug\net6.0\BinarySearchImplement.runtimeconfig.json
+C:\Users\dkarpov\development\interview_questions\Algorithms\BinarySearch\BinarySearchImplement\bin\Debug\net6.0\BinarySearchImplement.dll
+C:\Users\dkarpov\development\interview_questions\Algorithms\BinarySearch\BinarySearchImplement\bin\Debug\net6.0\BinarySearchImplement.pdb
+C:\Users\dkarpov\development\interview_questions\Algorithms\BinarySearch\BinarySearchImplement\obj\Debug\net6.0\BinarySearchImplement.csproj.AssemblyReference.cache
+C:\Users\dkarpov\development\interview_questions\Algorithms\BinarySearch\BinarySearchImplement\obj\Debug\net6.0\BinarySearchImplement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkarpov\development\interview_questions\Algorithms\BinarySearch\BinarySearchImplement\obj\Debug\net6.0\BinarySearchImplement.AssemblyInfoInputs.cache
+C:\Users\dkarpov\development\interview_questions\Algorithms\BinarySearch\BinarySearchImplement\obj\Debug\net6.0\BinarySearchImplement.AssemblyInfo.cs
+C:\Users\dkarpov\development\interview_questions\Algorithms\BinarySearch\BinarySearchImplement\obj\Debug\net6.0\BinarySearchImplement.csproj.CoreCompileInputs.cache
+C:\Users\dkarpov\development\interview_questions\Algorithms\BinarySearch\BinarySearchImplement\obj\Debug\net6.0\BinarySearchImplement.dll
+C:\Users\dkarpov\development\interview_questions\Algorithms\BinarySearch\BinarySearchImplement\obj\Debug\net6.0\refint\BinarySearchImplement.dll
+C:\Users\dkarpov\development\interview_questions\Algorithms\BinarySearch\BinarySearchImplement\obj\Debug\net6.0\BinarySearchImplement.pdb
+C:\Users\dkarpov\development\interview_questions\Algorithms\BinarySearch\BinarySearchImplement\obj\Debug\net6.0\BinarySearchImplement.genruntimeconfig.cache
+C:\Users\dkarpov\development\interview_questions\Algorithms\BinarySearch\BinarySearchImplement\obj\Debug\net6.0\ref\BinarySearchImplement.dll

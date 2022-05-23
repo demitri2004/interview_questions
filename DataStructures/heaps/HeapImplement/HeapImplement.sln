@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapImplement", "HeapImplement.csproj", "{DB1DF4BB-4C6A-47DA-811C-F8F7B0EF5246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1DF4BB-4C6A-47DA-811C-F8F7B0EF5246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1DF4BB-4C6A-47DA-811C-F8F7B0EF5246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1DF4BB-4C6A-47DA-811C-F8F7B0EF5246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1DF4BB-4C6A-47DA-811C-F8F7B0EF5246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BCE7F45-6096-4987-AE83-671BDDF433CA}
+	EndGlobalSection
+EndGlobal

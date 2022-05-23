@@ -1,0 +1,15 @@
+C:\Users\dkarpov\development\interview_questions\DataStructures\heaps\HeapImplement\bin\Debug\net6.0\HeapImplement.exe
+C:\Users\dkarpov\development\interview_questions\DataStructures\heaps\HeapImplement\bin\Debug\net6.0\HeapImplement.deps.json
+C:\Users\dkarpov\development\interview_questions\DataStructures\heaps\HeapImplement\bin\Debug\net6.0\HeapImplement.runtimeconfig.json
+C:\Users\dkarpov\development\interview_questions\DataStructures\heaps\HeapImplement\bin\Debug\net6.0\HeapImplement.dll
+C:\Users\dkarpov\development\interview_questions\DataStructures\heaps\HeapImplement\bin\Debug\net6.0\HeapImplement.pdb
+C:\Users\dkarpov\development\interview_questions\DataStructures\heaps\HeapImplement\obj\Debug\net6.0\HeapImplement.csproj.AssemblyReference.cache
+C:\Users\dkarpov\development\interview_questions\DataStructures\heaps\HeapImplement\obj\Debug\net6.0\HeapImplement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkarpov\development\interview_questions\DataStructures\heaps\HeapImplement\obj\Debug\net6.0\HeapImplement.AssemblyInfoInputs.cache
+C:\Users\dkarpov\development\interview_questions\DataStructures\heaps\HeapImplement\obj\Debug\net6.0\HeapImplement.AssemblyInfo.cs
+C:\Users\dkarpov\development\interview_questions\DataStructures\heaps\HeapImplement\obj\Debug\net6.0\HeapImplement.csproj.CoreCompileInputs.cache
+C:\Users\dkarpov\development\interview_questions\DataStructures\heaps\HeapImplement\obj\Debug\net6.0\HeapImplement.dll
+C:\Users\dkarpov\development\interview_questions\DataStructures\heaps\HeapImplement\obj\Debug\net6.0\refint\HeapImplement.dll
+C:\Users\dkarpov\development\interview_questions\DataStructures\heaps\HeapImplement\obj\Debug\net6.0\HeapImplement.pdb
+C:\Users\dkarpov\development\interview_questions\DataStructures\heaps\HeapImplement\obj\Debug\net6.0\HeapImplement.genruntimeconfig.cache
+C:\Users\dkarpov\development\interview_questions\DataStructures\heaps\HeapImplement\obj\Debug\net6.0\ref\HeapImplement.dll

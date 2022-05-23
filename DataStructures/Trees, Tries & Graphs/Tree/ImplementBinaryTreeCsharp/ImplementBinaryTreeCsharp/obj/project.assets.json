@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dkarpov\\development\\interview_questions\\Trees, Tries & Graphs\\Tree\\ImplementBinaryTreeCsharp\\ImplementBinaryTreeCsharp\\ImplementBinaryTreeCsharp.csproj",
+      "projectUniqueName": "C:\\Users\\dkarpov\\development\\interview_questions\\DataStructures\\Trees, Tries & Graphs\\Tree\\ImplementBinaryTreeCsharp\\ImplementBinaryTreeCsharp\\ImplementBinaryTreeCsharp.csproj",
       "projectName": "ImplementBinaryTreeCsharp",
-      "projectPath": "C:\\Users\\dkarpov\\development\\interview_questions\\Trees, Tries & Graphs\\Tree\\ImplementBinaryTreeCsharp\\ImplementBinaryTreeCsharp\\ImplementBinaryTreeCsharp.csproj",
+      "projectPath": "C:\\Users\\dkarpov\\development\\interview_questions\\DataStructures\\Trees, Tries & Graphs\\Tree\\ImplementBinaryTreeCsharp\\ImplementBinaryTreeCsharp\\ImplementBinaryTreeCsharp.csproj",
       "packagesPath": "C:\\Users\\dkarpov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dkarpov\\development\\interview_questions\\Trees, Tries & Graphs\\Tree\\ImplementBinaryTreeCsharp\\ImplementBinaryTreeCsharp\\obj\\",
+      "outputPath": "C:\\Users\\dkarpov\\development\\interview_questions\\DataStructures\\Trees, Tries & Graphs\\Tree\\ImplementBinaryTreeCsharp\\ImplementBinaryTreeCsharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dkarpov\\AppData\\Roaming\\NuGet\\NuGet.Config",

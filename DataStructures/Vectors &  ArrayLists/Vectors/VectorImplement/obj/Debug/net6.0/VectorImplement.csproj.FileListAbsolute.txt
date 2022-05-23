@@ -1,0 +1,15 @@
+C:\Users\dkarpov\development\interview_questions\DataStructures\Vectors &  ArrayLists\Vectors\VectorImplement\bin\Debug\net6.0\VectorImplement.exe
+C:\Users\dkarpov\development\interview_questions\DataStructures\Vectors &  ArrayLists\Vectors\VectorImplement\bin\Debug\net6.0\VectorImplement.deps.json
+C:\Users\dkarpov\development\interview_questions\DataStructures\Vectors &  ArrayLists\Vectors\VectorImplement\bin\Debug\net6.0\VectorImplement.runtimeconfig.json
+C:\Users\dkarpov\development\interview_questions\DataStructures\Vectors &  ArrayLists\Vectors\VectorImplement\bin\Debug\net6.0\VectorImplement.dll
+C:\Users\dkarpov\development\interview_questions\DataStructures\Vectors &  ArrayLists\Vectors\VectorImplement\bin\Debug\net6.0\VectorImplement.pdb
+C:\Users\dkarpov\development\interview_questions\DataStructures\Vectors &  ArrayLists\Vectors\VectorImplement\obj\Debug\net6.0\VectorImplement.csproj.AssemblyReference.cache
+C:\Users\dkarpov\development\interview_questions\DataStructures\Vectors &  ArrayLists\Vectors\VectorImplement\obj\Debug\net6.0\VectorImplement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkarpov\development\interview_questions\DataStructures\Vectors &  ArrayLists\Vectors\VectorImplement\obj\Debug\net6.0\VectorImplement.AssemblyInfoInputs.cache
+C:\Users\dkarpov\development\interview_questions\DataStructures\Vectors &  ArrayLists\Vectors\VectorImplement\obj\Debug\net6.0\VectorImplement.AssemblyInfo.cs
+C:\Users\dkarpov\development\interview_questions\DataStructures\Vectors &  ArrayLists\Vectors\VectorImplement\obj\Debug\net6.0\VectorImplement.csproj.CoreCompileInputs.cache
+C:\Users\dkarpov\development\interview_questions\DataStructures\Vectors &  ArrayLists\Vectors\VectorImplement\obj\Debug\net6.0\VectorImplement.dll
+C:\Users\dkarpov\development\interview_questions\DataStructures\Vectors &  ArrayLists\Vectors\VectorImplement\obj\Debug\net6.0\refint\VectorImplement.dll
+C:\Users\dkarpov\development\interview_questions\DataStructures\Vectors &  ArrayLists\Vectors\VectorImplement\obj\Debug\net6.0\VectorImplement.pdb
+C:\Users\dkarpov\development\interview_questions\DataStructures\Vectors &  ArrayLists\Vectors\VectorImplement\obj\Debug\net6.0\VectorImplement.genruntimeconfig.cache
+C:\Users\dkarpov\development\interview_questions\DataStructures\Vectors &  ArrayLists\Vectors\VectorImplement\obj\Debug\net6.0\ref\VectorImplement.dll
