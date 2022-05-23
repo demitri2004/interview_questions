@@ -1,8 +1,9 @@
 // GIT COMMANDS
 
-git pull; git push
+git pull
 git add .
 git commit -m 'comment here'
+git push
 
 git diff; git diff --staged; 
 
